@@ -8,4 +8,4 @@ Here is a snapshot of the Homepage.
 
 <img src = "ss1.png">
 <img src = "ss2.png">
-<img src = "ss3.png>
+<img src = "ss3.png">
