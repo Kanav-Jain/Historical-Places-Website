@@ -1,0 +1,117 @@
+body {
+    background-color: #fdfcdc;
+    font-family: "Nunito", sans-serif;
+}
+
+#mainNavbar {
+    background-color: ;
+    font-size: 1.10rem;
+    font-weight: 700;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #9b2226;
+}
+
+#mainNavbar .navbar-brand {
+    color: #9b2226;
+    font-size: 1.5rem;
+}
+
+#flag {
+    margin-top: 2px;
+}
+
+.navbar.scrolled {
+    background-color: #ee9b00;
+    /* background-image: linear-gradient(120deg, #ee9b00, #ffbb3c); */
+    transition: background 1s;
+}
+
+.btn {
+    border: 2px solid #9b2226;
+}
+
+.img1 {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 10%;
+}
+
+.centered {
+    font-size: 2rem;
+    margin-top: 7rem;
+    color: white;
+    font-weight: 800;
+
+}
+
+.head1 {
+    background-image: url("TopPic.jpg");
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 2px 2px 2px #ee9b00;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.centered span {
+    font-weight: 900;
+    color: #9b2226;
+}
+
+#mainHeading {
+    text-align: center;
+    padding: 10px;
+    margin: 25px;
+}
+
+.blurb h2 {
+    color: #ca6702;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+
+.blurb h2 a {
+    color: #ca6702;
+    font-size: 2.5rem;
+    text-decoration: none;
+}
+
+.blurb p {
+    color: #ee9b00;
+    font-size: 1.125rem;
+    line-height: 2;
+}
+
+.blurb h2 a:hover {
+    font-weight: bolder;
+    color: #9b2226;
+}
+
+.img-decor {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #ee9b00;
+}
+
+.dropDecor {
+    background-color: #fdfcdc;
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px #ee9b00;
+}
+
+.dropDecor1 {
+    text-transform: uppercase;
+    color: #ee9b00;
+    font-weight: 700;
+}
+
+.dropDecor1:hover {
+    color: #9b2226;
+    font-weight: 800;
+    background-color: #fdfcdc;
+}
