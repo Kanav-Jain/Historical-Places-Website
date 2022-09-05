@@ -1,5 +1,5 @@
 # Historical Places Website
-A Responsive website made using HTML, CSS, BOOTSTRAP and a bit of JAVASCRIPT.
+A Responsive website made using HTML, CSS, BOOTSTRAP and a bit of JAVASCRIPT.<br><br>
 <a href = "https://kanav-jain.github.io/HistoricalPlaces/">Link To The Website</a>
 <h1><b>Features of the website</b></h1>
 <ul>
